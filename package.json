@@ -1,0 +1,10 @@
+{
+  "name": "dragANDdrop_uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hamstergeek <hamstergeek38@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "normalize": "^0.3.1"
+  }
+}
